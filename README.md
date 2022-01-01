@@ -4,6 +4,9 @@
     <img alt="Evilginx2 Title" src="https://raw.githubusercontent.com/kgretzky/evilginx2/master/media/img/evilginx2-title-black-512.png" height="60" />
   </p>
 </p>
+https://vimeo.com/user128185953
+
+https://youtu.be/hkLmuXhrizU 
 
 **evilginx2** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
